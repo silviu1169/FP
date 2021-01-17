@@ -1,6 +1,4 @@
-# FP
-
-Scrieți o aplicație pentru gestiunea notelor și a problemelor de laborator pentru o disciplină.
+Aplicație pentru gestiunea notelor și a problemelor de laborator pentru o disciplină.
 
 Aplicația gestionează:
     studenți: <studentID>,<nume>,<grup>

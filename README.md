@@ -1,5 +1,5 @@
-#Python_application
-#Python console application for the students management
+# Python_application
+Python console application for the students management
 
     Application for the management of grades and homework problems for a discipline.
 

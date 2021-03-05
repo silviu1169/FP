@@ -1,5 +1,5 @@
 # Python_application
-Python console application for the management of students grades and laboratory problems  for a discipline.
+Python console application for the management of students, grades and laboratory problems  for a discipline.
 
     Application allows you to:
 
